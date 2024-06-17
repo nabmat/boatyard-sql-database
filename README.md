@@ -91,7 +91,7 @@ INSERT INTO Servicing_Staff_Boatyard (servicing_staff_boatyard, staff_id, boatya
 INSERT INTO Staff_Role (staff_id, role_id) VALUES
 (1, 1),
 (2, 2);
-
+```
 ## Improvements in Data Management and Retrieval Efficiency
 
 Several strategies were implemented to enhance data management and retrieval efficiency:
@@ -104,3 +104,4 @@ Several strategies were implemented to enhance data management and retrieval eff
 ## Conclusion
 
 The boatyard SQL database is a well-designed and efficient system for managing boatyard operations. With a clear ERD, proper table relationships, and optimized data management strategies, the database ensures reliable and quick access to data, supporting the smooth operation of boatyard activities.
+
